@@ -3,7 +3,7 @@ package models
 import (
 	"os"
 	"strings"
-	u "github.com/alchristleo/go-contacts/utils"
+	u "github.com/alchristleo/go-contact/utils"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/jinzhu/gorm"
 	"golang.org/x/crypto/bcrypt"
