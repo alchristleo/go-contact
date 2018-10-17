@@ -2,11 +2,11 @@ package main
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/adigunhammedolalekan/go-contacts/app"
+	"github.com/alchristleo/go-contacts/app"
 	"os"
 	"fmt"
 	"net/http"
-	"github.com/adigunhammedolalekan/go-contacts/controllers"
+	"github.com/alchristleo/go-contacts/controllers"
 )
 
 func main() {
